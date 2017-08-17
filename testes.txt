@@ -1,9 +1,9 @@
 			requisitos
 
-Site com uma única página (index.html), com as 5 músicas
+Site com uma Ãºnica pÃ¡gina (index.html), com as 7 mÃºsicas
  preferidas de cada integrante.
 
-Deverá ser criado como o grupo bem entender.
+DeverÃ¡ ser criado como o grupo bem entender.
 
 
 			 design
