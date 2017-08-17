@@ -1,6 +1,7 @@
 			requisitos
 
-Site com uma única página (index.html), com as 5 músicas
+
+Site com uma única página (index.html), com as 7 músicas
  preferidas de cada integrante.
 
 Deverá ser criado como o grupo bem entender.
