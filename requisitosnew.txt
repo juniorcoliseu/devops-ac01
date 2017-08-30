@@ -1,0 +1,8 @@
+﻿Site com uma única página (index.html), com as 7 músicas
+ preferidas de cada integrante.
+
+Deverá ser criado como o grupo bem entender.
+
+Teste para novo arquivo maquina local.
+
+
